@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
+    <main class="py-4">
+      <router-view></router-view>
+    </main>
   </div>
 </template>
 
